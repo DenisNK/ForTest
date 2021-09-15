@@ -7,6 +7,7 @@ namespace TestForGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("add Develop branch");
             Console.ReadKey();
         }
     }
