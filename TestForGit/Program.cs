@@ -10,6 +10,7 @@ namespace TestForGit
             Console.WriteLine("add Develop branch");
             Console.WriteLine("add Develop branch2");
             Console.WriteLine("add Develop branch3");
+            Console.WriteLine("DV-888");
             Console.ReadKey();
         }
     }
