@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace TestForGit
+﻿namespace TestForGit
 {
     class AddDelClass2
     {
+        ///Changes some files
     }
 }
